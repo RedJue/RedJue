@@ -34,13 +34,19 @@
 
 #### Github Stats
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=f6f8fa&tc=000&ic=000&bc=f6f8fa">
-    <img align="left" alt="stats" src="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22" />
-</picture>
-
-<img  height="185px" />
+ <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=f6f8fa&tc=000&ic=000&bc=f6f8fa">
+      <img align="left" alt="stats" src="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22" />
+ </picture>
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
 
 #### Reach Me
 
