@@ -32,22 +32,6 @@
 </a>
 <br />
 
-#### Github Stats
-
- <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=f6f8fa&tc=000&ic=000&bc=f6f8fa">
-      <img align="left" alt="stats" src="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22" />
- </picture>
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
-
 #### Reach Me
 
 <picture>
@@ -55,6 +39,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/wechat/181717">
     <img align="left" alt="github" width="22px" src="https://cdn.simpleicons.org/wechat/181717" />
 </picture> ZERO861501223 
+
+#### Github Stats
+
+ <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=f6f8fa&tc=000&ic=000&bc=f6f8fa">
+      <img align="left" alt="stats" src="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22" />
+ </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedJue/RedJue/output/github-contribution-grid-snake-dark.svg">
