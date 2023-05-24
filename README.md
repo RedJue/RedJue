@@ -44,5 +44,9 @@ Hi, I'm RedJue, I am a full stack engineer. I like to study code, like to build 
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RedJue&repo=vue-crop-image-mobile" />
 </a>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
