@@ -36,17 +36,9 @@ Hi, I'm RedJue, I am a full stack engineer. I like to study code, like to build 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<a href="https://github.com/RedJue/git-commit-plugin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RedJue&repo=git-commit-plugin" />
-</a>
-
-<a href="https://github.com/RedJue/vue-crop-image-mobile">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RedJue&repo=vue-crop-image-mobile" />
-</a>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedJue/RedJue/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedJue/RedJue/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RedJue/RedJue/output/github-contribution-grid-snake.svg">
 </picture>
 
