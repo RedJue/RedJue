@@ -1,40 +1,61 @@
-### Hey 👋🏽, I'm RedJue！
+### Hey 👋, I'm RedJue 
 
-<a href="https://twitter.com/pingfj77">
-  <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+> A Full Stack Engineer base on HangZhou China.
+> <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/antdesign/FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/antdesign/181717">
+  <img align="left" alt="github" width="22px" src="https://cdn.simpleicons.org/antdesign/181717" />
+</picture> Member of Ant Design Team.
+
+#### Social Accounts
+<a href="https://github.com/RedJue" title="github">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img align="left" alt="github" width="22px" src="https://cdn.simpleicons.org/github/181717" />
+  </picture>
 </a>
-<a href="https://github.com/RedJue">
-  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://twitter.com/pingfj77" title="twitter">
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitter/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/twitter/181717">
+    <img align="left" alt="twitter" width="22px" src="https://cdn.simpleicons.org/twitter/181717" />
+  </picture>
 </a>
-<a href="https://www.zhihu.com/people/feng-ji-4-11">
-  <img align="left" alt="zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+<a href="https://www.zhihu.com/people/feng-ji-4-11" title="zhihu">
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/zhihu/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/zhihu/181717">
+    <img align="left" alt="github" width="22px" src="https://cdn.simpleicons.org/zhihu/181717" />
+  </picture>
 </a>
-<a href="https://juejin.cn/user/3280598429871159">
-  掘金
-</a>
+<br />
+
+#### Github Stats
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=f6f8fa&tc=000&ic=000&bc=f6f8fa">
+    <img align="left" alt="stats" src="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22" />
+</picture>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
-Hi, I'm RedJue, I am a full stack engineer. I like to study code, like to build wheels, and have a neat mania for code. I am very optimistic about the development of Web, and I am also working on the research of Web technology.
+#### Reach Me
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-<br/>
-
-![RedJue's github stats](https://github-readme-stats.vercel.app/api?username=RedJue&show_icons=true&hide_border=true)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+ZERO861501223 <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wechat/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/wechat/181717">
+    <img align="center" alt="github" width="22px" src="https://cdn.simpleicons.org/wechat/181717" />
+</picture>  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedJue/RedJue/output/github-contribution-grid-snake-dark.svg">
