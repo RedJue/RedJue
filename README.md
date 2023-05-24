@@ -44,11 +44,11 @@
 
 #### Reach Me
 
-ZERO861501223 <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wechat/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/wechat/181717">
-    <img align="center" alt="github" width="22px" src="https://cdn.simpleicons.org/wechat/181717" />
-</picture>  
+    <img align="left" alt="github" width="22px" src="https://cdn.simpleicons.org/wechat/181717" />
+</picture> ZERO861501223 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedJue/RedJue/output/github-contribution-grid-snake-dark.svg">
