@@ -40,14 +40,7 @@
     <img align="left" alt="stats" src="https://github-stats-alpha.vercel.app/api?username=RedJue&cc=161b22&tc=fff&ic=fff&bc=161b22" />
 </picture>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<img  height="185px" />
 
 #### Reach Me
 
