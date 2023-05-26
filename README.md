@@ -16,7 +16,7 @@
     <img align="left" alt="github" width="22px" src="https://cdn.simpleicons.org/github/181717" />
   </picture>
 </a>
-<a href="https://twitter.com/pingfj77" title="twitter">
+<a href="https://twitter.com/redjue_fj" title="twitter">
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/twitter/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/twitter/181717">
