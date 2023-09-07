@@ -23,6 +23,13 @@
     <img align="left" alt="twitter" width="22px" src="https://cdn.simpleicons.org/twitter/181717" />
   </picture>
 </a>
+<a href="https://juejin.cn/user/3280598429871159" title="juejin">
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/juejin/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/juejin/181717">
+    <img align="left" alt="juejin" width="22px" src="https://cdn.simpleicons.org/juejin/181717" />
+  </picture>
+</a>
 <a href="https://www.zhihu.com/people/feng-ji-4-11" title="zhihu">
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/zhihu/FFFFFF">
